@@ -1,4 +1,5 @@
 # python-courses
 
-## Editing the file
-It's a markdown file in this repository
+## The Final Peer-Graded Assignments
+This repository only has lab assignments including:
+- Peer-graded Assignment: ETL Engineer
